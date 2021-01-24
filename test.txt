@@ -1,2 +1,3 @@
 Fisrt string
-Seconf string
+Second string
+3 String
